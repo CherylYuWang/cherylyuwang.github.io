@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "About"
 title_separator          : "-"
-name                     : &name "Li Guo"
+name                     : &name "Cheryl Yu Wang"
 description              : &description "personal description"
-url                      : https://guoli0618.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://cherylyuwang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "guoli0618/guoli0618.github.io"
+repository               : "CherylYuWang/cherylyuwang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,19 +23,19 @@ repository               : "guoli0618/guoli0618.github.io"
 author:
   # Biographic information
   
-  avatar           : "profile_photo.jpg"
-  name             : "Li GUO (郭雳)"
+  avatar           : "photo.png"
+  name             : "Yu WANG (王钰)"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor <br> in Finance"
+  bio              : "PhD Candidate in Finance"
  # location         : "Shanghai, China"
-  employer         : "Fudan University"
+  employer         : "Shanghai University of <br>Finance and Economics"
   uri              : # URL
-  email            : "  guo_li@fudan.edu.cn" 
+  email            : #"" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2470707"
+  ssrn             : # "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2470707"
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
