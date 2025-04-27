@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Li Guo is an Associate Professor of Finance at Fudan University and an Academic Researcher at the Shanghai Institute of International Finance and Economics. Prior to joining Fudan University, he obtained his PhD in Finance from Singapore Management University. His work has been published in esteemed journals, including the Journal of Financial Economics, the Journal of Business and Economic Statistics, and the Journal of Economic Dynamics and Control.
-
-His research interests are Asset Pricing, Behavioral Finance, Artificial Intelligence, Textual Analysis, and FinTech. 
+Yu Wang is a PhD Candidate in Finance at Shanghai University of Finance and Economics. She obtained her master’s degree in Applied Economics from National Technological University and bachelor’s degree in Financial Engineering from Huazhong University of Science and Technology. Her research interests are empirical asset pricing, behavioral finance, machine learning, and FinTech. She has published papers in leading journals such as Journal of Economic Dynamics and Control. She is a CFA charterholder and her work has been cited over 900 times on Google Scholar. 
 
 
 Education
 ======
-PhD (Finance), Singapore Management University
+PhD Candidate (Finance), Shanghai University of Finance and Economics
 
-MS (Economics), Nanyang Technological University
+MS (Applied Economics), Nanyang Technological University
 
-BS (Finance), Zhejiang University
+BS (Financial Engineering), Huazhong University of Science and Technology
